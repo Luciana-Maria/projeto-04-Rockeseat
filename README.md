@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Seus dados estão Protegidos.
+Seus dados estão  Protegidos.
 
 ## ✍️ Aprendizagem
 * Estruturando HTML com tags semânticas
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido durante o EXPLORER- programação web da Rocketsea
 
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através 
-[desse link](https://www.figma.com/file/mOewQ7grz70jDetcz3Svoq/Explorer-(Copy)?type=design&node-id=0%3A1&t=uOktP1BerNstWXdc-1). 
+[desse link](). 
 É necessário ter uma conta no [Figma](https://www.figma.com)
 
 Feito com ❤️ por <strong>Luciana</strong>. Me acompanhe nas [redes sociais!](https://luciana-maria.github.io/Cartao-de-visita-Rocketseat/)
